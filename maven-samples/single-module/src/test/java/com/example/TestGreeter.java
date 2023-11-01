@@ -43,9 +43,7 @@ public class TestGreeter {
   }
   
   @Test
-  public void greetShouldIncludeGreetingMessage() {
-    String someone = "World, Thanks you making me Happy";
-
+  public void falsyTest() {
     assertTrue(false);
   }
 }
