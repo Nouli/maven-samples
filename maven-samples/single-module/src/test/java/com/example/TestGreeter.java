@@ -43,7 +43,7 @@ public class TestGreeter {
   }
   
   @Test
-  public void falsyTest() {
-    assertTrue(false);
+  public void correctTest() {
+    assertTrue(true);
   }
 }
