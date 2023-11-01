@@ -45,5 +45,6 @@ public class TestGreeter {
   @Test
   public void correctTest() {
     assertTrue(true);
+    assertTrue(true);
   }
 }
